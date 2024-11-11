@@ -1,4 +1,4 @@
 https://lampkoge.github.io/progintro-hw0-lampkoge
 
-byte0: i_wanna_be
+
 
